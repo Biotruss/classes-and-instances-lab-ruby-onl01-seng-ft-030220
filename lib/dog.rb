@@ -1,6 +1,6 @@
 class Dog 
 
 end
-fido.new 
-snoopy.new 
+Fido.new 
+Snoopy.new 
 lassie.new
