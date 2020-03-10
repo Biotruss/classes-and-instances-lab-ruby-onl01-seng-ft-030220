@@ -1,5 +1,5 @@
 class Dog 
-  
+  self
 end
 
 fido = Dog.new
